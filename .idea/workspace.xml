@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9daf451b-ea82-483f-8f39-d246d4687fe1" name="Default Changelist" comment="" />
+    <list default="true" id="9daf451b-ea82-483f-8f39-d246d4687fe1" name="Default Changelist" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5.liveTableAddEditDeleteUsingAjaxJqueryInPHPMysql/select.php" afterPath="$PROJECT_DIR$/5.liveTableAddEditDeleteUsingAjaxJqueryInPHPMysql/select.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,15 +97,24 @@
       <file leaf-file-name="select.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/5.liveTableAddEditDeleteUsingAjaxJqueryInPHPMysql/select.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <state relative-caret-position="216">
+              <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
               <folding>
-                <marker date="1549137341856" expanded="true" signature="91:132" ph="SELECT * FRO... tbl_sample" />
-                <marker date="1549137341856" expanded="true" signature="221:447" ph="..." />
-                <marker date="1549137341856" expanded="true" signature="221:452" ph="..." />
-                <marker date="1549137341856" expanded="true" signature="262:447" ph="..." />
-                <marker date="1549137341856" expanded="true" signature="275:447" ph="..." />
-                <marker date="1549137341856" expanded="true" signature="529:530" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="91:132" ph="SELECT * FRO... tbl_sample" />
+                <marker date="1549139844412" expanded="true" signature="221:447" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="221:452" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="262:447" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="275:447" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="675:743" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="818:885" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="914:1044" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="914:1048" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="956:991" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="956:992" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="956:1017" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="1114:1147" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="1114:1196" ph="..." />
+                <marker date="1549139844412" expanded="true" signature="1221:1222" ph="..." />
               </folding>
             </state>
           </provider>
@@ -117,6 +130,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -147,11 +163,12 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="711" />
-    <option name="y" value="30" />
-    <option name="width" value="650" />
+    <option name="x" value="787" />
+    <option name="y" value="22" />
+    <option name="width" value="572" />
     <option name="height" value="601" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -244,25 +261,25 @@
       <workItem from="1547456540995" duration="108000" />
       <workItem from="1548740084012" duration="1483000" />
       <workItem from="1549016791639" duration="22583000" />
-      <workItem from="1549088558324" duration="15499000" />
+      <workItem from="1549088558324" duration="17538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59934000" />
+    <option name="totallyTimeSpent" value="61973000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="711" y="30" width="650" height="601" extended-state="0" />
+    <frame x="787" y="22" width="572" height="601" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833022" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.484193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48387095" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -484,15 +501,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5.liveTableAddEditDeleteUsingAjaxJqueryInPHPMysql/select.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state relative-caret-position="216">
+          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
           <folding>
-            <marker date="1549137341856" expanded="true" signature="91:132" ph="SELECT * FRO... tbl_sample" />
-            <marker date="1549137341856" expanded="true" signature="221:447" ph="..." />
-            <marker date="1549137341856" expanded="true" signature="221:452" ph="..." />
-            <marker date="1549137341856" expanded="true" signature="262:447" ph="..." />
-            <marker date="1549137341856" expanded="true" signature="275:447" ph="..." />
-            <marker date="1549137341856" expanded="true" signature="529:530" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="91:132" ph="SELECT * FRO... tbl_sample" />
+            <marker date="1549139844412" expanded="true" signature="221:447" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="221:452" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="262:447" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="275:447" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="675:743" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="818:885" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="914:1044" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="914:1048" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="956:991" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="956:992" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="956:1017" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="1114:1147" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="1114:1196" ph="..." />
+            <marker date="1549139844412" expanded="true" signature="1221:1222" ph="..." />
           </folding>
         </state>
       </provider>

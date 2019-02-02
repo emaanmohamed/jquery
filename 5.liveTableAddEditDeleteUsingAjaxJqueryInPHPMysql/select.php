@@ -15,11 +15,24 @@ $output .= '
 
 if (mysqli_num_rows($result) > 0)
 {
-
+        while ($row = mysqli_fetch_array($result))
+        {
+            $output .= '<td>' .$row["id"].'</td>
+                        <td class="first_name" data-id1="'.$row["id"].'" 
+                        contenteditable>'.$row["first_name"].'</td>
+                         <td class="first_name" data-id2="'.$row["id"].'" 
+                        contenteditable>'.$row["last_name"].'</td>
+                        <td><button name="btn_delete" id="btn_delete"
+                         data-id3="'.$row["id"].'">x</button>
+                         </td>
+                        ';
+        }
 }
 else
 {
-
+    $output .='<tr>
+                    <td colspan="4">Data not Found</td>
+                    </tr>';
 }
 $output .= '</table>
 </div>';
