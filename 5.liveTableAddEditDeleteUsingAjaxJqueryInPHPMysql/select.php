@@ -2,6 +2,7 @@
 $connect = mysqli_connect("localhost", "root", "", "test_db");
 $output = '';
 $sql = "SELECT * FROM tbl_sample ORDER BY id DESC";
+
 $result = mysqli_query($connect, $sql);
 $output .= '
     <div class="table-responsive">
@@ -27,6 +28,12 @@ if (mysqli_num_rows($result) > 0)
                          </td>
                         ';
         }
+        $output .= '<tr>
+     <td></td>
+      <td id="first_name" contenteditable></td>
+      <td id="last_name" contenteditable></td>
+      <td><button name="btn_delete"></button></td>
+  </tr>';
 }
 else
 {
